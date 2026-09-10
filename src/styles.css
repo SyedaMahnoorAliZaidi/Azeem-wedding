@@ -1,0 +1,14 @@
+html, body, #root {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background: #FBEAEE;
+  font-family: Georgia, serif;
+}
+.boot {
+  min-height: 100%;
+  display: grid;
+  place-items: center;
+  color: #7A4A5E;
+  letter-spacing: 0.08em;
+}
